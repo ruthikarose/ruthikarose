@@ -75,7 +75,7 @@ I'm currently organizing and documenting additional projects in AI, NLP, Deep Le
 ## 📫 Connect With Me
 
 - GitHub: @ruthikarose
-- LinkedIn: Coming soon
+- LinkedIn: https://www.linkedin.com/in/ruthika-bolla-063417235/?isSelfProfile=true
 
 <!--
 **ruthikarose/ruthikarose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
